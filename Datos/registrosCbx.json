@@ -1,0 +1,165 @@
+{
+  "Ranchos": [
+    {
+      "Rancho": "El Vaquero",
+      "Propietarios": [
+	    "Reyes Seoane",
+          "Emilia Noguera",
+          "Maria-Jesus Samper",
+          "Alvaro Benavides",
+          "Yolanda Fernndez"
+      ]
+    },
+    {
+      "Rancho": "Gran Cañón",
+      "Propietarios": [
+	    "Fernando Nadal",
+          "Elisabeth Latorre",
+          "Gregoria Cornejo",
+          "Estibaliz Palacio",
+          "Eugenio Rodenas"
+      ]
+    },
+    {
+      "Rancho": "Viejo Oeste",
+      "Propietarios": [
+          "Marcia Mascaró Villanueva",
+          "Miguela Villa Toledo",
+          "Carla Echeverría",
+          "Isaac del Lluch",
+          "Mauricio Castell Franco"
+      ]
+    },
+    {
+      "Rancho": "Los Pinos",
+      "Propietarios": [
+          "Gerónimo Prudencio Paredes",
+          "Leocadia del Álamo",
+          "Emilia Olalla Fábregas",
+          "Enrique Sotelo Santiago",
+          "Sol Báez Palmer"
+      ]
+    },
+    {
+      "Rancho": "El Riachuelo",
+      "Propietarios": [
+          "Adriana Olivera",
+          "Adela Anglada Font",
+          "Dorotea Roura Lara",
+          "Edgardo Quero Tejada",
+          "Hipólito Barba Jordá"
+      ]
+    }
+  ],
+  "Ganados": [
+    {
+      "Tipo": "Vacuno",
+      "Razas": [
+        {
+          "Nombre": "Casanareño",
+          "Valor": 7935.0
+        },
+        {
+          "Nombre": "Chino santandereano",
+          "Valor": 8456.0
+        },
+        {
+          "Nombre": "Blanco orejinegro (BON)",
+          "Valor": 6500.0
+        },
+        {
+          "Nombre": "Hartón del Valle",
+          "Valor": 5999.0
+        },
+        {
+          "Nombre": "Romosinuano",
+          "Valor": 7800.0
+        }
+      ]
+    },
+    {
+      "Tipo": "Ovino",
+      "Razas": [
+        {
+          "Nombre": "Criolla",
+          "Valor": 456.0
+        },
+        {
+          "Nombre": "Hampshire",
+          "Valor": 3500.0
+        },
+        {
+          "Nombre": "Rommeny Marsh",
+          "Valor": 4000.0
+        },
+        {
+          "Nombre": "Black Face",
+          "Valor": 3800.0
+        },
+        {
+          "Nombre": "Cheviot",
+          "Valor": 3750.0
+        }
+      ]
+    },
+    {
+      "Tipo": "Porcino",
+      "Razas": [
+        {
+          "Nombre": "San Pedreño",
+          "Valor": 11450.0
+        },
+        {
+          "Nombre": "Zungo",
+          "Valor": 120006.0
+        },
+        {
+          "Nombre": "Casco de Mula",
+          "Valor": 11500.0
+        }
+      ]
+    },
+    {
+      "Tipo": "Caprino",
+      "Razas": [
+        {
+          "Nombre": "Saanen",
+          "Valor": 8000.0
+        },
+        {
+          "Nombre": "Toggenburg",
+          "Valor": 7500.0
+        },
+        {
+          "Nombre": "Alpina",
+          "Valor": 6800.0
+        },
+        {
+          "Nombre": "La Mancha",
+          "Valor": 7200.0
+        }
+      ]
+    },
+    {
+      "Tipo": "Equino",
+      "Razas": [
+        {
+          "Nombre": "Criollo colombiano",
+          "Valor": 50000.0
+        },
+        {
+          "Nombre": "Paso fino colombiano",
+          "Valor": 65800.0
+        },
+        {
+          "Nombre": "Trocha pura colombiana",
+          "Valor": 70950.0
+        },
+        {
+          "Nombre": "Trote-galopee",
+          "Valor": 130000.0
+        }
+      ]
+    }
+  ]
+}
